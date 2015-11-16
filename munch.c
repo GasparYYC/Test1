@@ -1,5 +1,6 @@
 /* this program will malloc memory in 1MB increments until memory is exhausted, then will quit and memory is released*/
 /* This is just another comment from Me.. buahahaha */
+/* and just for fun a third line*/
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
