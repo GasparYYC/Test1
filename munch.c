@@ -1,3 +1,4 @@
+/* this program will malloc memory in 1MB increments until memory is exhausted, then will quit and memory is released*/
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
